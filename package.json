@@ -1,0 +1,23 @@
+{
+  "name": "@datagazer/layout-grid",
+  "version": "1.0.0-dev.1",
+  "license": "UNLICENSED",
+  "peerDependencies": {
+    "@angular/core": "8.0.0",
+    "@angular/flex-layout": "8.0.0-beta.26",
+    "rxjs": "6.5.2"
+  },
+  "main": "bundles/layout-grid.umd.js",
+  "module": "fesm5/layout-grid.js",
+  "es2015": "fesm2015/layout-grid.js",
+  "esm5": "esm5/layout-grid.js",
+  "esm2015": "esm2015/layout-grid.js",
+  "fesm5": "fesm5/layout-grid.js",
+  "fesm2015": "fesm2015/layout-grid.js",
+  "typings": "layout-grid.d.ts",
+  "metadata": "layout-grid.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
